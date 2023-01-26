@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781308555961",
+    "project_id": "praon-8ab55",
+    "storage_bucket": "praon-8ab55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781308555961:android:057891f6193932352c2168",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781308555961-tn47h0ptkh30db3k4valietia3fbukpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmY3aCZ_fuUu_FTwQoo_fFf1-9Pwb_Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781308555961-tn47h0ptkh30db3k4valietia3fbukpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
